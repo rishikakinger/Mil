@@ -1,0 +1,5 @@
+RPi.GPIO
+transformers
+torch
+twilio
+mysql-connector-python
