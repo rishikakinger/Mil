@@ -13,6 +13,7 @@ This project is a prototype for a soft toy designed to protect children by detec
 
 ## Directory Structure
 
+```
 Millie/
 │
 ├── database/
@@ -31,6 +32,8 @@ Millie/
 ├── requirements.txt              
 │
 └── README.md
+
+```
 
 
 ## Setup Instructions
